@@ -7,3 +7,5 @@ Part to be commited
 Another part to be commited
 
 mychanges
+
+my generic config
