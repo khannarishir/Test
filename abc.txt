@@ -8,5 +8,8 @@ Another part to be commited
 
 mychanges
 
+my generic config
+
 config
 this is done later
+
